@@ -4,12 +4,13 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Patrick McDonald<br />
+14 McPherson Rd<br />
+Stroughton<br />
+Massachusetts<br />
+United States of America
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>patrickMcDonald122@protonmail.com</u>
 
 ---
 

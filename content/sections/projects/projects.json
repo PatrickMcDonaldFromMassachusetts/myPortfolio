@@ -2,42 +2,71 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Web Development",
+      "title": "IP Karate",
+      "description": "MEI Security IP Karate, formerly MEI Internet Security Tools, is a web application aimed at cybersecurity and law enforcement professionals that allows them to search for info on internet protocol addresses from several sources at the same time and to save that information for later use. I have been the lead designer and sole developer since the projects inception. As of the time of creating this site the application is late in a closed alpha and I am currently working both on fixes for problems identified by our alpha testers and an upgrade that will transition the application from a java monolithic application to a multi language microservice architecture. This screenshot shows the output of flagship feature of IPKarate, the multi-tool search.",
+      "tags": [
+        "Web Development",
+        "Cyber Security",
+        "Java",
+        "Spring Boot"
+      ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/ipkarate.png",
+        "alt": "Search result"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://alpha.isectools.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Web development",
+      "title": "MEI force arena",
+      "description": "Originally starting off as a workshop for the Boston area security conference, THe Mei force arena is a set of web applications and computer network designed to support gamified, full contact red vs blue cybersecurity training where goal is to capture and defend servers running vulnerable software. After the 2017 conference, I was tasked with a performing a major redesign of the whole arena taking what was a rather crude thing thrown together in a month into something we could sell as a service. Specificity I was tasked with redesigning the scoring system, creating an animated attack map, setting up scripts to automate the deployment of the arena onto ec2 instances in a virtual private cloud, sourcing target applications for arena and creating automated sign up system. We ran the workshop again at the 2018 Boston Area Security Conference to great reviews from the participants in the workshop. Sadly changing priorities and  the pandemic forced the project to be pause to enable work on IP Karate",
+      "tags": [
+        "Web development",
+        "golang",
+        "nodejs",
+        "microservices",
+        "reactjs",
+        "Python"
+      ],
+      "image": {
+        "src": "../../images/scoreboard.png",
+        "alt": "Arena v5 scoreboard"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Android development",
+      "title": "Mei Wireless Tool",
+      "description": "The very first project I worked on at Mei Security, The Mei Wireless Tool is an android app for identifying and tracking wifi devices on wifi networks in the user's immediate vicinity using a usb wifi antenna connected to the users device. With features including device labeling, scan filtering and signal strength heatmapping, the Mei Wireless Tools makes what once required a laptop and specialized training easy enough for everyone to do. The project has been shelved for a couple years at the time of writing this due to priorities being shifted to developing Ip karate",
+      "tags": [
+        "Android",
+        "kotlin"
+      ],
+      "image": {
+        "src": "../../images/unnamed.png",
+        "alt": "Heatmapping"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Linux development",
+      "title": "MEI pinephone app (working project name)",
+      "description": "MEI Security's president Vik Solem is an enthusiastic early adopter of Pine64's Pinephone linux smartphone. He asked me create an app for this device that combined the features of a vpn (powered by openvpn), internet proxy (powered by squid) and security evaluator into one app and that the app be compatible with any operating system one could install on a pinephone, specificity the alpine based postmarketos. We currently are fairly early in the project's development with only a single, but fully functional, python prototype",
+      "tags": [
+        "alpine linux",
+        "python"
+      ],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+      }
     }
   ],
   "button": {

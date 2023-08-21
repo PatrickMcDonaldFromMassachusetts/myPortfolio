@@ -1,58 +1,64 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Web Development",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/web-development-icon-23.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "java",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/java-logo-icon-19.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "linux",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/tux_huge.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Reactjs",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Desktop and Console application Development",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/351-3516741_development-free-icon-development-icon-image-png.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Golang",
+      "image": {
+        "src": "../../images/golang_logo_icon_171073.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Robotics",
+      "image": {
+        "src": "../../images/robot-clipart-Robot2.png",
+        "alt": ""
+      }
+    },  {
+      "label": "android",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Philosophy",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/8TGErkAAc.png",
         "alt": ""
       }
     }
